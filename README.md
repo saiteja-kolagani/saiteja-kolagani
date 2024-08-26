@@ -1,6 +1,13 @@
+## 📝 About Me
+
+<div align="center">
+
 # Hi 👋, I'm Sai Teja Kolagani
 
 An aspiring Full Stack Developer with a passion for frontend and backend development
+
+</div>
+
 
 🔭 I’m currently working on [The Daily Blog](https://github.com/saiteja-kolagani/The-Daily-Blog-Client.git)
 
