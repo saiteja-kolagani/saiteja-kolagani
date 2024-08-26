@@ -8,6 +8,7 @@ An aspiring Full Stack Developer with a passion for frontend and backend develop
 
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=saiteja-kolagani&color=blue)
 
 🔭 I’m currently working on [The Daily Blog](https://github.com/saiteja-kolagani/The-Daily-Blog-Client.git)
 
