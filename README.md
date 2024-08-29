@@ -10,7 +10,7 @@ An aspiring Full Stack Developer with a passion for frontend and backend develop
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saiteja-kolagani&color=blue)
 
-🔭 I’m currently working on [The Daily Blog](https://github.com/saiteja-kolagani/The-Daily-Blog-Client.git)
+🔭 I’m currently working on [InstantChat](https://github.com/saiteja-kolagani/InstantChat.git)
 
 🌱 I’m currently learning Next.js
 
